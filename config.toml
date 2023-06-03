@@ -1,4 +1,4 @@
-baseURL = "https://dev.mythbox.cn/blog/"
+baseURL = "https://yangxia.cloud/blog/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
@@ -17,8 +17,6 @@ enableGitInfo = true
 # 是否使用 emoji 代码
 enableEmoji = true
 [languages]
-
-
   [languages.zh-cn]
     weight = 2
     # 网站语言, 仅在这里 CN 大写
@@ -383,7 +381,7 @@ enableEmoji = true
       keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
       # 是否使侧边目录自动折叠展开
-      auto = true
+      auto = false
     # Code config
     # 代码配置
     [params.page.code]
@@ -392,7 +390,7 @@ enableEmoji = true
       copy = true
       # the maximum number of lines of displayed code by default
       # 默认展开显示的代码行数
-      maxShownLines = 10
+      maxShownLines = 50
     # KaTeX mathematical formulas config (KaTeX https://katex.org/)
     # KaTeX 数学公式配置 (KaTeX https://katex.org/)
     [params.page.math]

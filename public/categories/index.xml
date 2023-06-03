@@ -1,8 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - 分类 - 博客 - 在阅读中遇见自己</title>
-        <link>https://dev.mythbox.cn/blog/categories/</link>
+        <link>https://yangxia.cloud/blog/categories/</link>
         <description>Categories - 分类 - 博客 - 在阅读中遇见自己</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>xiabin827@qq.com (夏)</managingEditor>
-            <webMaster>xiabin827@qq.com (夏)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://dev.mythbox.cn/blog/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>xiabin827@qq.com (夏)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 23 Feb 2023 16:25:01 &#43;0800</lastBuildDate><atom:link href="https://yangxia.cloud/blog/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>机器学习</title>
+    <link>https://yangxia.cloud/blog/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+    <pubDate>Thu, 23 Feb 2023 16:25:01 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>计算机视觉</title>
+    <link>https://yangxia.cloud/blog/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</link>
+    <pubDate>Wed, 22 Feb 2023 15:25:42 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

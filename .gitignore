@@ -1,0 +1,12 @@
+/.idea
+/.vscode
+/public
+/dist
+/resources
+/static
+node_modules
+nohup.out
+.DS_Store
+trace.out
+.hugo_build.lock
+resources/_gen/images/

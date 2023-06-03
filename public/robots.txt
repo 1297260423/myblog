@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://dev.mythbox.cn/sitemap.xml
+Sitemap: https://yangxia.cloud/sitemap.xml

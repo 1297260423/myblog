@@ -1,10 +1,90 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>博客 - 在阅读中遇见自己</title>
-        <link>https://dev.mythbox.cn/blog/</link>
+        <link>https://yangxia.cloud/blog/</link>
         <description>夏做的网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>xiabin827@qq.com (夏)</managingEditor>
-            <webMaster>xiabin827@qq.com (夏)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-            <atom:link href="https://dev.mythbox.cn/blog/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+            <webMaster>xiabin827@qq.com (夏)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 31 May 2023 15:03:15 &#43;0800</lastBuildDate>
+            <atom:link href="https://yangxia.cloud/blog/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>安装docker</title>
+    <link>https://yangxia.cloud/blog/%E5%AE%89%E8%A3%85docker/</link>
+    <pubDate>Wed, 31 May 2023 15:03:15 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/%E5%AE%89%E8%A3%85docker/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>安装微信</title>
+    <link>https://yangxia.cloud/blog/1/</link>
+    <pubDate>Tue, 30 May 2023 23:03:58 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/1/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>manjaro使用小记</title>
+    <link>https://yangxia.cloud/blog/install/</link>
+    <pubDate>Sun, 28 May 2023 14:18:37 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/install/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>面试题</title>
+    <link>https://yangxia.cloud/blog/%E9%9D%A2%E8%AF%95%E9%A2%98/</link>
+    <pubDate>Tue, 14 Mar 2023 15:07:25 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/%E9%9D%A2%E8%AF%95%E9%A2%98/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Docker Compose</title>
+    <link>https://yangxia.cloud/blog/docker-compose/</link>
+    <pubDate>Fri, 03 Mar 2023 17:19:28 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/docker-compose/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Cloudreve</title>
+    <link>https://yangxia.cloud/blog/cloudreve/</link>
+    <pubDate>Fri, 03 Mar 2023 17:17:02 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/cloudreve/</guid>
+    <description><![CDATA[Cloudreve 可以让您快速搭建起公私兼备的网盘系统。Cloudreve 在底层支持不同的云存储平台，用户在实际使用时无须关心物理存储方式。你可以使用 Cloudreve 搭建个人用网盘、文件分享系统，亦或是针对大小团体的公有云系统。]]></description>
+</item>
+<item>
+    <title>机器学习</title>
+    <link>https://yangxia.cloud/blog/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+    <pubDate>Thu, 23 Feb 2023 16:25:01 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>模板匹配</title>
+    <link>https://yangxia.cloud/blog/%E6%A8%A1%E6%9D%BF%E5%8C%B9%E9%85%8D/</link>
+    <pubDate>Wed, 22 Feb 2023 15:25:42 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/%E6%A8%A1%E6%9D%BF%E5%8C%B9%E9%85%8D/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>图像增强</title>
+    <link>https://yangxia.cloud/blog/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA/</link>
+    <pubDate>Wed, 22 Feb 2023 10:04:04 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>kubernetes核心组件</title>
+    <link>https://yangxia.cloud/blog/k8s2/</link>
+    <pubDate>Mon, 13 Feb 2023 14:18:37 &#43;0800</pubDate>
+    <author>夏</author>
+    <guid>https://yangxia.cloud/blog/k8s2/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
